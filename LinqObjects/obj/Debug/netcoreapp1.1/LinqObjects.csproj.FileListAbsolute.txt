@@ -1,0 +1,9 @@
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLinqStudy\LinqObjects\bin\Debug\netcoreapp1.1\LinqObjects.deps.json
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLinqStudy\LinqObjects\bin\Debug\netcoreapp1.1\LinqObjects.runtimeconfig.json
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLinqStudy\LinqObjects\bin\Debug\netcoreapp1.1\LinqObjects.runtimeconfig.dev.json
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLinqStudy\LinqObjects\bin\Debug\netcoreapp1.1\LinqObjects.dll
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLinqStudy\LinqObjects\bin\Debug\netcoreapp1.1\LinqObjects.pdb
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLinqStudy\LinqObjects\obj\Debug\netcoreapp1.1\LinqObjects.AssemblyInfo.cs
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLinqStudy\LinqObjects\obj\Debug\netcoreapp1.1\LinqObjects.dll
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLinqStudy\LinqObjects\obj\Debug\netcoreapp1.1\LinqObjects.pdb
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLinqStudy\LinqObjects\obj\Debug\netcoreapp1.1\LinqObjects.csprojResolveAssemblyReference.cache

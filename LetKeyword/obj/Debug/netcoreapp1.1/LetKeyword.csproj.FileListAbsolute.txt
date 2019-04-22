@@ -1,0 +1,8 @@
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLinqStudy\LetKeyword\bin\Debug\netcoreapp1.1\LetKeyword.deps.json
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLinqStudy\LetKeyword\bin\Debug\netcoreapp1.1\LetKeyword.runtimeconfig.json
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLinqStudy\LetKeyword\bin\Debug\netcoreapp1.1\LetKeyword.runtimeconfig.dev.json
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLinqStudy\LetKeyword\bin\Debug\netcoreapp1.1\LetKeyword.dll
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLinqStudy\LetKeyword\bin\Debug\netcoreapp1.1\LetKeyword.pdb
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLinqStudy\LetKeyword\obj\Debug\netcoreapp1.1\LetKeyword.AssemblyInfo.cs
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLinqStudy\LetKeyword\obj\Debug\netcoreapp1.1\LetKeyword.dll
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLinqStudy\LetKeyword\obj\Debug\netcoreapp1.1\LetKeyword.pdb

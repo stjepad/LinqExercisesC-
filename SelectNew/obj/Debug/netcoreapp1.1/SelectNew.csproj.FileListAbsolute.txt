@@ -1,0 +1,9 @@
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLinqStudy\SelectNew\bin\Debug\netcoreapp1.1\SelectNew.deps.json
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLinqStudy\SelectNew\bin\Debug\netcoreapp1.1\SelectNew.runtimeconfig.json
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLinqStudy\SelectNew\bin\Debug\netcoreapp1.1\SelectNew.runtimeconfig.dev.json
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLinqStudy\SelectNew\bin\Debug\netcoreapp1.1\SelectNew.dll
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLinqStudy\SelectNew\bin\Debug\netcoreapp1.1\SelectNew.pdb
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLinqStudy\SelectNew\obj\Debug\netcoreapp1.1\SelectNew.AssemblyInfo.cs
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLinqStudy\SelectNew\obj\Debug\netcoreapp1.1\SelectNew.dll
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLinqStudy\SelectNew\obj\Debug\netcoreapp1.1\SelectNew.pdb
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLinqStudy\SelectNew\obj\Debug\netcoreapp1.1\SelectNew.csprojResolveAssemblyReference.cache
