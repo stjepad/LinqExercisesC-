@@ -1,0 +1,9 @@
+c:\users\wu491hk\documents\visual studio 2017\Projects\MyLinqStudy\MyLinqStudy\bin\Debug\netcoreapp1.1\MyLinqStudy.deps.json
+c:\users\wu491hk\documents\visual studio 2017\Projects\MyLinqStudy\MyLinqStudy\bin\Debug\netcoreapp1.1\MyLinqStudy.runtimeconfig.json
+c:\users\wu491hk\documents\visual studio 2017\Projects\MyLinqStudy\MyLinqStudy\bin\Debug\netcoreapp1.1\MyLinqStudy.runtimeconfig.dev.json
+c:\users\wu491hk\documents\visual studio 2017\Projects\MyLinqStudy\MyLinqStudy\bin\Debug\netcoreapp1.1\MyLinqStudy.dll
+c:\users\wu491hk\documents\visual studio 2017\Projects\MyLinqStudy\MyLinqStudy\bin\Debug\netcoreapp1.1\MyLinqStudy.pdb
+c:\users\wu491hk\documents\visual studio 2017\Projects\MyLinqStudy\MyLinqStudy\obj\Debug\netcoreapp1.1\MyLinqStudy.csprojResolveAssemblyReference.cache
+c:\users\wu491hk\documents\visual studio 2017\Projects\MyLinqStudy\MyLinqStudy\obj\Debug\netcoreapp1.1\MyLinqStudy.AssemblyInfo.cs
+c:\users\wu491hk\documents\visual studio 2017\Projects\MyLinqStudy\MyLinqStudy\obj\Debug\netcoreapp1.1\MyLinqStudy.dll
+c:\users\wu491hk\documents\visual studio 2017\Projects\MyLinqStudy\MyLinqStudy\obj\Debug\netcoreapp1.1\MyLinqStudy.pdb
