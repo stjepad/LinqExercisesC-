@@ -1,0 +1,9 @@
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLinqStudy\GroupingIntro\bin\Debug\netcoreapp1.1\GroupingIntro.deps.json
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLinqStudy\GroupingIntro\bin\Debug\netcoreapp1.1\GroupingIntro.runtimeconfig.json
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLinqStudy\GroupingIntro\bin\Debug\netcoreapp1.1\GroupingIntro.runtimeconfig.dev.json
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLinqStudy\GroupingIntro\bin\Debug\netcoreapp1.1\GroupingIntro.dll
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLinqStudy\GroupingIntro\bin\Debug\netcoreapp1.1\GroupingIntro.pdb
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLinqStudy\GroupingIntro\obj\Debug\netcoreapp1.1\GroupingIntro.csprojResolveAssemblyReference.cache
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLinqStudy\GroupingIntro\obj\Debug\netcoreapp1.1\GroupingIntro.AssemblyInfo.cs
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLinqStudy\GroupingIntro\obj\Debug\netcoreapp1.1\GroupingIntro.dll
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLinqStudy\GroupingIntro\obj\Debug\netcoreapp1.1\GroupingIntro.pdb
